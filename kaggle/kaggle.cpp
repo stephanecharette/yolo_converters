@@ -1,5 +1,5 @@
 /* YOLO converters -- helper apps to convert annotations to YOLO format.
- * Copyright 2021-2022 Stephane Charette <stephanecharette@gmail.com>
+ * Copyright 2021-2024 Stephane Charette <stephanecharette@gmail.com>
  * MIT license applies.  See "license.txt" for details.
  */
 
@@ -12,7 +12,7 @@
  * The project has a single class, so everything is hard-coded to use id #0.
  * https://www.kaggle.com/c/tensorflow-great-barrier-reef/
  */
- 
+
 int main()
 {
 	const auto input_filename = "train.csv";

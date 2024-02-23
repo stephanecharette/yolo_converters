@@ -3,5 +3,5 @@
 # MIT license applies.  See "license.txt" for details.
 
 
-ADD_EXECUTABLE (visdrone visdrone.cpp)
-TARGET_LINK_LIBRARIES (visdrone Threads::Threads ${OpenCV_LIBS})
+ADD_EXECUTABLE (mscoco2017 mscoco2017.cpp)
+TARGET_LINK_LIBRARIES (mscoco2017 Threads::Threads)

@@ -1,5 +1,5 @@
 # YOLO converters -- helper apps to convert annotations to YOLO format.
-# Copyright 2021-2022 Stephane Charette <stephanecharette@gmail.com>
+# Copyright 2021-2024 Stephane Charette <stephanecharette@gmail.com>
 # MIT license applies.  See "license.txt" for details.
 
 
